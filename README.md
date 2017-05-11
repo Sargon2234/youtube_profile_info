@@ -1,7 +1,7 @@
 # Youtube profile info
 Get youtube profile info by profile url.
 
-## To install dependecies
+## To install dependencies
     git clone https://github.com/Sargon2234/youtube_profile_info.git
     cd youtube_profile_info
     npm i
